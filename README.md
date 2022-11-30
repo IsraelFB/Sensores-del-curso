@@ -1,5 +1,5 @@
 
-<h1 align="center"> Sistema de luces para hogar </h1>
+<h1 align="center"> Sensores-del-curso </h1>
 <img src="https://user-images.githubusercontent.com/104939556/202371898-a1a6f8b6-ccd4-4dcb-9d05-a50a8984845d.png">
 <body>
 <p align="center"> 
@@ -8,9 +8,9 @@
 </body>
 <hr>
 <b>Introduccion</b><br>
-Se describirá el desarrollo para llevar a cabo la actividad,con ayuda de una rasberri pico pi en donde esta fungira como el cerntro de inteligencia que permitira cordinar el funcionamiento de todos los procesos en desarrollo.
+Se describirá el desarrollo la programacion de una rasberri pi picow en donde se busca utilizar sensores para que a trabes de la microcomputadora seamos capaces de controlarlos o leerlos para digitalizar la informacion y sea mas facil transmitir lo que estos nos comunican.
 
-# Sensores-del-curso
+
 En este repositorio se describirán los 37 sensores que serán vistos en clase además de integrar una práctica a modo de programa, simulacion posteriormente imagenes del projeyecto  realizado de forma fisica
 Para continuar y ver el progreso de las actividades selecciona el apartado projects
 
