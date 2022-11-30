@@ -1,3 +1,15 @@
+
+<h1 align="center"> Sistema de luces para hogar </h1>
+<img src="https://user-images.githubusercontent.com/104939556/202371898-a1a6f8b6-ccd4-4dcb-9d05-a50a8984845d.png">
+<body>
+<p align="center"> 
+<b>Instituto Tecnológico de Tijuana </b><br><b>Ingeniería Sistemas Computacionales</b><br><b>Nombre de la Materia: </b><br>Sistemas Programables<br><b>Unidad:</b><br>#3 <br><b>Actividad:</b><br>3.2 Pico W, Webserver con 3 sensores y animación UIX<br><b>Profesor: </b><br>RENE SOLIS REYES<br><b>Alumno(s): </b><br>19211635 Felix Bojorquez Israel <br> 19211707 Perez Ramirez Owen Osvaldo <br> 19210497 González Gijón Ángel Gabriel <br> 19210524 Monroy Hernández Emmanuel Emilio <br> Mora Espinosa Michelle Guadalupe <br> <b>Fecha entrega:</b> Jueves 17 de noviembre del 2022
+</p>
+</body>
+<hr>
+<b>Introduccion</b><br>
+Se describirá el desarrollo para llevar a cabo la actividad,con ayuda de una rasberri pico pi en donde esta fungira como el cerntro de inteligencia que permitira cordinar el funcionamiento de todos los procesos en desarrollo.
+
 # Sensores-del-curso
 En este repositorio se describirán los 37 sensores que serán vistos en clase además de integrar una práctica a modo de programa, simulacion posteriormente imagenes del projeyecto  realizado de forma fisica
 Para continuar y ver el progreso de las actividades selecciona el apartado projects
